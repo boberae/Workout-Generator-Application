@@ -8,4 +8,4 @@ To use the workout generator, run WorkoutGenerator.jar.
 -->Press Finish when ready to generate
 -->After generating, the workout will be displayed in the GUI, and you will have the option to send the workout via email.
 
-The other .txt files packaged with this zip folder are used by the program to store default inputs for the text fields.
+The other .txt files packaged with this .jar file are used by the program to store default inputs for the text fields.
